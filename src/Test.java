@@ -4,6 +4,7 @@ public class Test {
 		 System.out.println("hi");   
 		 
 		 System.out.println("Inside branch1");
+		 System.out.println("Inside branch2");
 	}
 
 }
