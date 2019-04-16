@@ -5,6 +5,7 @@ public class Test {
 		 
 		 System.out.println("Inside branch1");
 		 System.out.println("Inside branch2");
+		 System.out.println("Inside branch22");
 	}
 
 }
